@@ -4,5 +4,5 @@ import { defineConfig } from 'vite'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [vue()],
-  base: '/my_vue_app/',
+  base: '/vue_test/',
 })
